@@ -1,0 +1,38 @@
+
+
+/* Navigation Bar */
+.navbar {
+    background-color: #ffffff;
+    padding: 15px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.navbar-toggler-icon {
+    background-color: #FF6F61;
+}
+
+.navbar-nav .nav-link.active {
+    color: #FF6F61;
+}
+
+/* Footer */
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* General Styling */
+.py-5 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
